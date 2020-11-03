@@ -26,4 +26,4 @@ func numberDivide(_ num1: Int, _ num2: Int) -> [Int]{
 }
 
 
-numberDivide(20, 6)
+numberDivide(11, 3)

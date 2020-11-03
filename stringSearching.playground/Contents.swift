@@ -59,7 +59,7 @@ import UIKit
 
 
 //func accum(_ s: String) -> String {
-////    Initialize an empty
+//    Initialize an empty
 //    var str = s.split(separator: " ").joined(separator: "-")
 //    print(str)
 //    var valueToPrint: String = ""

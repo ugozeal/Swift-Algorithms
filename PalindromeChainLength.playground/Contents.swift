@@ -23,5 +23,5 @@ func palindromeChainLength(_ num: Int) -> Int {
 
 
 
-palindromeChainLength(89)
+palindromeChainLength(87)
 

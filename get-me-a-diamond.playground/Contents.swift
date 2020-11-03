@@ -39,6 +39,7 @@ func diamond(_ size: Int) -> String? {
         final += "\(repeatSpace)\(str)\n"
         k = k + 1
        }
+    print(final)
   return final
     
 }

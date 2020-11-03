@@ -52,6 +52,6 @@ func similarLicensePlates(_ plate1: String,_ plate2: String) -> Bool {
     }else{
         return false
     }
-   return true
+   
 }
 
